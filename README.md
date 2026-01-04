@@ -412,6 +412,35 @@ docker logs resume-builder-app
 
 ---
 
+## 📸 Screenshots
+
+### AWS EC2 Instances
+*Jenkins Server and Application Server running on AWS EC2*
+
+![AWS EC2 Instances](docs/screenshots/aws-ec2-instances.png)
+
+### Jenkins Pipeline - Successful Build
+*Complete CI/CD pipeline execution with all stages passed*
+
+![Jenkins Pipeline Success](docs/screenshots/jenkins-pipeline-success.png)
+
+### AWS ECR Repository
+*Docker images stored in Amazon Elastic Container Registry*
+
+![AWS ECR Repository](docs/screenshots/aws-ecr-repository.png)
+
+### AWS IAM Role Configuration
+*IAM role with ECR permissions attached to EC2 instances*
+
+![AWS IAM Role](docs/screenshots/aws-iam-role.png)
+
+### Server Access Logs
+*Live server logs showing application requests*
+
+![Server Logs](docs/screenshots/server-logs.png)
+
+---
+
 ## 🤝 Contributing
 
 1. Fork the repository

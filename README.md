@@ -472,7 +472,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **John Smilin DS**
 
 - GitHub: [@Smilin01](https://github.com/Smilin01)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/johnsmilin/)
+- LinkedIn: [John Smilin](https://www.linkedin.com/in/johnsmilin/)
 
 ---
 

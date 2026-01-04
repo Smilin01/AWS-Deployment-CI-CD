@@ -439,6 +439,16 @@ docker logs resume-builder-app
 
 ![Server Logs](docs/screenshots/server-logs.png)
 
+### Docker Container Running
+*Docker container running with health status showing "healthy"*
+
+![Docker Container Running](docs/screenshots/docker-container-running.png)
+
+### Docker Container Stats
+*Real-time resource usage monitoring of the deployed container*
+
+![Docker Container Stats](docs/screenshots/docker-container-stats.png)
+
 ---
 
 ## 🤝 Contributing
